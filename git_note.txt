@@ -1,2 +1,3 @@
 Git is a version control system used to track changes in files.
 GitHub is a cloud platform to store Git repositories online. Together, they allow collaboration and backup through commit and push commands.
+commit 
